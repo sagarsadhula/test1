@@ -12,10 +12,5 @@ public class TestController {
 		return "Hi welcome to channel";
 	}
 	
-	@Pushmapping
-	public String sayWelcome() {
-		
-		return "Git testing";
-	
 
 }
